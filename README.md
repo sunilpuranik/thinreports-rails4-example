@@ -1,9 +1,7 @@
 # ThinReports Rails4 Example
 
-The Simple Task Management App using ThinReports and Rails4.
-Rails3 Example is [here](https://github.com/thinreports/thinreports-rails3-example).
-
-[![Dependency Status](https://gemnasium.com/thinreports/thinreports-rails4-example.png)](https://gemnasium.com/thinreports/thinreports-rails4-example)
+The Simple Task Management Application using ThinReports and Rails4. 
+Rails3 example is [here](https://github.com/thinreports/thinreports-rails3-example).
 
 ## How to run this example:
 
@@ -32,7 +30,7 @@ Go to `http://localhost:3000/tasks` in your browser.
 
 * Ruby 2.0.0
 * Rails 4.0.0
-* ThinReports 0.7.5+
+* ThinReports 0.7.6
 * thinreports-rails 0.1.3
 * Bundler
 

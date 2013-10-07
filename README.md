@@ -36,11 +36,11 @@ Go to `http://localhost:3000/tasks` in your browser.
 
 ## Author
 
-[Matsukei](http://www.matsukei.co.jp) Co.,Ltd.
+[ThinReports.ORG](http://www.thinreports.org)
 
 * twitter: [@thinreports_org](https://twitter.com/thinreports_org)
 * email: [thinreports@gmail.com](mailto:thinreports@gmail.com)
 
 ## License
 
-Copyright (C) 2013 Matsukei Co.,Ltd. All rights reserved.
+Copyright (C) 2013 ThinReports.org. All rights reserved.

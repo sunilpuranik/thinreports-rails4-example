@@ -3,6 +3,9 @@
 The Simple Task Management Application using ThinReports and Rails4. 
 Rails3 example is [here](https://github.com/thinreports/thinreports-rails3-example).
 
+[![Build Status](https://travis-ci.org/thinreports/thinreports-rails4-example.png)](https://travis-ci.org/thinreports/thinreports-rails4-example)
+[![Dependency Status](https://gemnasium.com/thinreports/thinreports-rails4-example.png)](https://gemnasium.com/thinreports/thinreports-rails4-example)
+
 ## How to run this example:
 
 Get this application source using git:
@@ -43,4 +46,4 @@ Go to `http://localhost:3000/tasks` in your browser.
 
 ## License
 
-Copyright (C) 2013 ThinReports.org. All rights reserved.
+Copyright (C) 2014 ThinReports.org. All rights reserved.

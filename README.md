@@ -37,6 +37,13 @@ Go to `http://localhost:3000/tasks` in your browser.
 * thinreports-rails 0.1.3
 * Bundler
 
+## Development
+
+### How to run the test
+
+    $ bundle exec rake db:setup RAILS_ENV=test
+    $ bundle exec rake spec
+
 ## Author
 
 [ThinReports.ORG](http://www.thinreports.org)

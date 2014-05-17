@@ -20,11 +20,11 @@ describe TasksController do
       end
 
       it 'render 30 tasks in list' do
-        expect(pdf_texts.grep(/#\d+/).size).to eq(30)
+        expect(pdf_texts.grep(/#\d+/).count).to eq(30)
       end
 
       it 'has 2 pages' do
-        expect(pdf_pages.size).to eq(2)
+        expect(pdf_pages.count).to eq(2)
       end
     end
   end
@@ -48,7 +48,7 @@ describe TasksController do
       end
 
       it 'has a page' do
-        expect(pdf_pages.size).to eq(1)
+        expect(pdf_pages.count).to eq(1)
       end
 
       it 'render the attributes of task correctly' do

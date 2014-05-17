@@ -32,8 +32,8 @@ Go to `http://localhost:3000/tasks` in your browser.
 ### Requirements
 
 * Ruby 1.9.3, 2.0, 2.1
-* Rails 4.0, 4.1
-* ThinReports 0.7.6, 0.7.7
+* Rails 4.0, 4.1.1
+* ThinReports 0.7.6, 0.7.7 (0.7.7.1)
 * thinreports-rails 0.1.3
 * Bundler
 
@@ -41,7 +41,7 @@ Go to `http://localhost:3000/tasks` in your browser.
 
 ### How to run the test
 
-    $ bundle exec rake db:setup RAILS_ENV=test
+    $ bundle exec rake db:migrate RAILS_ENV=test
     $ bundle exec rake spec
 
 ## Author

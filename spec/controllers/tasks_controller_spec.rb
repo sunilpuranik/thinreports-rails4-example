@@ -30,8 +30,6 @@ describe TasksController do
   end
 
   describe 'GET show/1.pdf' do
-    render_views
-
     it 'should be success' do
       task = create_task
 
@@ -42,6 +40,8 @@ describe TasksController do
     end
 
     describe 'Responded PDF' do
+      render_views
+
       before do
         @task = create_task name: 'Foo'
         get :show, id: @task, format: :pdf

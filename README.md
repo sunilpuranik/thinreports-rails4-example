@@ -31,7 +31,7 @@ Go to `http://localhost:3000/tasks` in your browser.
 
 ### Requirements
 
-* Ruby 2.1.2
+* Ruby 1.9.3, 2.0.0, 2.1.2
 * Rails 4.1.6
 * thinreports 0.7.7
 * thinreports-rails 0.1.3

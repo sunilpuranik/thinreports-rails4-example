@@ -43,13 +43,6 @@ Go to `http://localhost:3000/tasks` in your browser.
     $ bundle exec rake db:migrate RAILS_ENV=test
     $ bundle exec rake spec
 
-## Author
+## Copyright
 
-[Thinreports.ORG](http://www.thinreports.org)
-
-* twitter: [@thinreports_org](https://twitter.com/thinreports_org)
-* email: [thinreports@gmail.com](mailto:thinreports@gmail.com)
-
-## License
-
-Copyright (C) 2014 Thinreports.org. All rights reserved.
+&copy; 2010-2015 [Matsukei Co.,Ltd](http://www.matsukei.co.jp).
